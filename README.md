@@ -21,3 +21,26 @@ You can get a quick introduction to this Dataset with this kernel: [Dataset Walk
 
 Acknowledgements: Data provided by [montcoalert.org](montcoalert.org)
 
+
+
+**Python Library Dependencies**
+
+Seaborn
+Matplotlib
+Numpy
+Pandas
+
+
+**Visualization**
+
+**Exploratory Data Analysis**
+
+
+
+
+
+**Conclusion :**
+  
+          -This case study contained rectifying and exploring the datasets of the 911 calls.
+          -Data Analysis was performed on the dataset
+  
